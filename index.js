@@ -20,25 +20,25 @@ let curr_track = document.createElement("audio");
 
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
+    name: "I Feel Good",
+    artist: "Tatiana",
     image:
       "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3",
+    path: "./songs/I_Feel_Good-1539596129.mp3",
   },
   {
-    name: "Enthusiast",
-    artist: "Tours",
+    name: "Picture Perfect",
+    artist: "Wizkid",
     image:
       "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3",
+    path: "./songs/Picture Perfect.mp3",
   },
   {
-    name: "Shipping Lanes",
-    artist: "Chad Crouch",
+    name: "Sexy",
+    artist: "Wizkid",
     image:
       "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
+    path: "./songs/Sexy.mp3",
   },
   {
     name: "Nobody",
