@@ -44,7 +44,7 @@ let track_list = [
     name: "Nobody",
     artist: "Wizkid",
     image:
-      "https://images.unsplash.com/photo-1536294092354-254e4e7f2282?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHN1bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./songs/nobody.mp3",
   },
 ];
